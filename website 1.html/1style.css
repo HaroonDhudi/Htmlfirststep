@@ -1,0 +1,20 @@
+.ass{
+    color:rgb(255, 247, 0);
+    text-align: center;
+}
+body{
+    background-image: url("bg15.png");
+}
+marquee{
+    color:rgb(244, 3, 3);
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    padding-left: 10px;
+   
+}

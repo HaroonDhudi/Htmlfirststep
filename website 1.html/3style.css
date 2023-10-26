@@ -1,0 +1,38 @@
+.ass{
+    color:rgb(0, 0, 0);
+    text-align: center;
+}
+body{
+    background-image: url("free.png");
+}
+marquee{
+    color:rgb(242, 245, 246);
+}
+.list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+
+}
+li{
+    padding-left: 10px;
+   
+}
+.mid{
+    text-align: center;   
+}
+table, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+.padd{
+    padding:10px;
+    text-align: center;
+}
+th, td{
+    padding: 10px;
+}
+table{
+    margin: auto;
+    margin-top: 50px;
+}
